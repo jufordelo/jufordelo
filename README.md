@@ -1,7 +1,7 @@
 ### Oiiie!! Eu sou Júlia Formagini Girardelo
 <div>
   <a href="https://github.com/jufordelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jufordelo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jufordelo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jufordelo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
