@@ -1,9 +1,4 @@
 ### Oiiie!! Eu sou Júlia Formagini Girardelo
-
-- Atualmente cursando Ensino Médio Técnico em Informática
-- Tenho interesse desenvolver conteúdo de programação e tecnologia
-- Pronomes ela/dela
-
 <div>
   <a href="https://github.com/jufordelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jufordelo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
