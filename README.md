@@ -7,7 +7,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="ju-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="jugif"src="https://user-images.githubusercontent.com/88542954/128513855-d7335756-8e3c-4899-936b-c1de83e510c7.gif">
+  <img align="right" alt="jugif"src="https://user-images.githubusercontent.com/88542954/128516613-6ffa2809-5e80-4e9c-bd7b-6a3b92aee562.gif">
 
 </div>
 
