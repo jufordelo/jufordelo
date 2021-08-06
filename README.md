@@ -1,7 +1,7 @@
 ### Oiiie!! Eu sou Júlia Formagini Girardelo
 - 🌱 Ensino Médio Técnico de Informática
 - ✨ Estudando C 
-- 😄 Pronomes:ela/dela
+- 🙂 Pronomes:ela/dela
 
 <div>
   <a href="https://github.com/jufordelo">
