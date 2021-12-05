@@ -1,8 +1,7 @@
 ### Oiiie!! Eu sou Júlia Formagini Girardelo
-- 🌱 Cursando Ensino Médio Técnico de Informática
-- ✨ Languages C++, JavaScript
-- 📚 Algoritmos e Estrutura de dados/ Lógica Formal/ Banco de Dados 
-- 🙂 Pronomes:ela/dela
+-Cursando Ensino Médio Técnico de Informática
+-Algoritmos e Estrutura de dados/ Lógica Formal/ Banco de Dados 
+-Pronomes:ela/dela
 
 <div>
   <a href="https://github.com/jufordelo">
