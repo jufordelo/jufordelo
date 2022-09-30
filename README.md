@@ -1,7 +1,7 @@
-### Oiiie!! Eu sou Júlia Formagini Girardelo
+### Olá, me chamo Júlia Formagini Girardelo!
 - Cursando Ensino Médio Técnico de Informática
-- Algoritmos e Estrutura de dados/ Lógica Formal/ Banco de Dados 
-- Pronomes: ela/dela
+- Algoritmos e Estrutura de dados/ Sistemas de Informação
+- Conhecimentos em Engenharia de Software
 
 <div>
   <a href="https://github.com/jufordelo">
