@@ -1,5 +1,5 @@
 ### Olá, me chamo Júlia Formagini Girardelo!
-- Cursando Ensino Médio Técnico de Informática
+- Cursando Ensino Médio Técnico de Informática (mod5)
 - Algoritmos e Estrutura de dados/ Sistemas de Informação
 - Conhecimentos em Engenharia de Software
 
