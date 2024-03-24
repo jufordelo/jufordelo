@@ -1,7 +1,7 @@
 ### Olá, me chamo Júlia Formagini Girardelo!
-📚 Ensino Médio Técnico de Informática (mod5)
-💻 Algoritmos e Estrutura de dados/ Sistemas de Informação
-🌟 Conhecimentos em Engenharia de Software
+💻 Ensino Médio Técnico em Desenvolvimento de Sistemas
+🎀 Buscando sempre aprendizado em programção
+🏎🏁 44 e 55
 
 <div>
   <a href="https://github.com/jufordelo">
