@@ -13,7 +13,7 @@
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JU-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JU-php" height="30" width="40" src="https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png">
- <img aling="right" alt="Julia" height="30" width="40"  src="https://drive.google.com/uc?id=1gwe9L33RX3CLcW9VH7v6Q_AqQKQhFn_k&export=download">
+ <img aling="right" height="150" width="150"  alt="Julia" src="https://github.com/jufordelo/jufordelo/blob/eb1a38212aab8450154bcf4f684714220b2dcc68/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif">
 </div>
 <br>
 <div>
