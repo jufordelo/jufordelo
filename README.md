@@ -1,4 +1,4 @@
-### Olá, eu sou Júlia Formagini Girardelo, estudo programação e tecnologia!
+### Me chamo Júlia Formagini Girardelo, estudo programação e tecnologia!
 💻 Desenvolvedora Front-End
 <div>
   <a href="https://github.com/jufordelo">
