@@ -1,9 +1,6 @@
-### Me chamo Júlia Formagini Girardelo, estudo programação e tecnologia!
-💻 Desenvolvedora Front-End
-<div>
-  <a href="https://github.com/jufordelo">
-    <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jufordelo&layout=compact&langs_count=16&theme=dark"/>
-</div>
+### Oiee, sou Júlia Formagini Girardelo!
+Estudo programação e tecnologia | Desenvolvedora Front-End   
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
