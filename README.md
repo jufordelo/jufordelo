@@ -1,6 +1,6 @@
 ### Oiee, sou Júlia Formagini Girardelo!
-Estudo programação e tecnologia | Desenvolvedora Front-End  
-
+💻Estudo programação e tecnologia | Desenvolvedora Front-End  
+👩‍🎓 IFSC CHAPECÓ- Desenvolvimento de Sistemas
 
 <div>
  <a href="https://github.com/jufordelo">
