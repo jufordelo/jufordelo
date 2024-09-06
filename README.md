@@ -22,9 +22,13 @@
   <img align="center" alt="jujs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="juhtml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jucss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="juphp" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXalRyF7J7QRLkJfMwCMqA47UUDCFdHJ-dFQ&s">
-    <img align="right" height="100" width="100"alt="Julia" 
-   src="https://github.com/jufordelo/jufordelo/blob/eb1a38212aab8450154bcf4f684714220b2dcc68/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif">
+  <img  align="center" alt="jufigma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />     
+  <img align="center" alt="juarduibo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="juphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+ <img align="center" alt="jularavel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+ <img align="right" height="100" width="100"alt="Julia" src="https://github.com/jufordelo/jufordelo/blob/eb1a38212aab8450154bcf4f684714220b2dcc68/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif">
+
+          
      
 </div>
    
