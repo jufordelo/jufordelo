@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D8BFD8&height=120&section=header"/>
 
-## Oiee, sou Júlia Formagini Girardelo!
+## Olá, sou Júlia Formagini Girardelo!
 💻 Estudo programação e tecnologia | Front-End   
 👩‍🎓 IFSC CAMPUS CHAPECÓ - Desenvolvimento de Sistemas
 
