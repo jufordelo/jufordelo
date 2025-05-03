@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D8BFD8&height=120&section=header"/>
 
-## Olá, sou Júlia Formagini Girardelo!
-💻 Apaixonada por programação e tecnologia
-👩‍🎓 IFSC CAMPUS CHAPECÓ - Desenvolvimento de Sistemas
-📚 UFFS | Ciências Da Computação - 1° semestre
+## Olá, sou Júlia Formagini Girardelo! <br>
+💻 Apaixonada por programação e tecnologia  <br>
+👩‍🎓 IFSC CAMPUS CHAPECÓ - Desenvolvimento de Sistemas <br>
+📚 UFFS | Ciências Da Computação - 1° semestre <br>
 
 <div>
   <a href = "mailto:jugini13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
