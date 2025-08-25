@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D8BFD8&height=120&section=header"/>
 
 ## Olá, sou Júlia Formagini Girardelo! <br>
-💻 Apaixonada por programação e tecnologia  <br>
+Estudante de Ciência da Computação UFFS <br>
+Tecnologias de interesse: HTML/CSS, Python, C
 👩‍🎓 IFSC CAMPUS CHAPECÓ - Desenvolvimento de Sistemas <br>
-📚 UFFS | Ciências Da Computação - 1° semestre <br>
 
 <div>
  <br>
