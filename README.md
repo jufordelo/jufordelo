@@ -2,7 +2,7 @@
 
 ## Olá, sou Júlia Formagini Girardelo! <br>
 Estudante de Ciência da Computação UFFS <br>
-Tecnologias de interesse: HTML/CSS, Python, C
+Tecnologias de interesse: HTML/CSS, Python, C <br>
 👩‍🎓 IFSC CAMPUS CHAPECÓ - Desenvolvimento de Sistemas <br>
 
 <div>
